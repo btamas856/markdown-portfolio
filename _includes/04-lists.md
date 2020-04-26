@@ -1,0 +1,4 @@
+* Hiking
+* Exesizing
+* Reading
+* Swimming
